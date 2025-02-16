@@ -150,20 +150,6 @@ body {
   animation: slideInLeft 2s ease-out;
 }
 
-.home .couple {
-  margin-top: 100px;
-}
-
-.home .couple h3 {
-  font-family: 'Sacramento';
-  font-size: 2.4rem;
-  color: var(--pink);
-}
-
-.home .couple img {
-  width: 100%;
-}
-
 .home .heart {
   width: 50px;
   height: 50px;
